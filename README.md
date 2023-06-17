@@ -1,4 +1,4 @@
-# devops-upskilling-program
+# DevOps Skilling Up Program
 
 This repository contains the code for the DevOps Upskilling Program.
 
