@@ -1,4 +1,4 @@
-# Lab 1 - DOCKER
+# Lab 2 - Docker
 
 ## Docker composer and shell scripts to deploy a web server
 
